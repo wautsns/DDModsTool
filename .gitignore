@@ -1,0 +1,7 @@
+### Intellij.gitignore ###
+/.idea
+*.iml
+
+### Project.gitignore ###
+/.dev/out
+/conf.properties

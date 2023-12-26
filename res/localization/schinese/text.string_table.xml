@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <language id="schinese">
+
+    <entry id="txt[PleaseSeeBelow]"><![CDATA[请见下文]]></entry>
+
+    <entry id="txt[Expect]"><![CDATA[期望]]></entry>
+    <entry id="txt[Actual]"><![CDATA[实际]]></entry>
+    <entry id="txt[PositionOfInvalidChar]"><![CDATA[异常字符的问题]]></entry>
+
+    <entry id="txt[Processing]"><![CDATA[处理中]]></entry>
+    <entry id="txt[ProcessingIsSuccessful]"><![CDATA[处理成功]]></entry>
+    <entry id="txt[Reading]"><![CDATA[读取中]]></entry>
+    <entry id="txt[Writing]"><![CDATA[写入中]]></entry>
+
+    <entry id="txt[PrevStep]"><![CDATA[上一步]]></entry>
+    <entry id="txt[NextStep]"><![CDATA[下一步]]></entry>
+    <entry id="txt[Complete]"><![CDATA[完成]]></entry>
+
+  </language>
+</root>

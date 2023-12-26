@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <language id="schinese">
+
+    <!-- ddmodstool.core.game.data.localization -->
+    <entry id="Language[schinese]"><![CDATA[简体中文]]></entry>
+    <entry id="Language[english]"><![CDATA[english]]></entry>
+
+    <!-- ################################################################################### -->
+
+    <!-- ddmodstool.core.lang.awt -->
+    <entry id="JLoading#lblLoading#text"><![CDATA[请稍等片刻]]></entry>
+    <entry id="JStyle[FlatLight]"><![CDATA[明亮(A)]]></entry>
+    <entry id="JStyle[FlatIntelliJ]"><![CDATA[明亮(B)]]></entry>
+    <entry id="JStyle[FlatMacLight]"><![CDATA[明亮(C)]]></entry>
+    <entry id="JStyle[FlatDark]"><![CDATA[暗黑(A)]]></entry>
+    <entry id="JStyle[FlatDarcula]"><![CDATA[暗黑(B)]]></entry>
+    <entry id="JStyle[FlatMacDark]"><![CDATA[暗黑(C)]]></entry>
+    <entry id="JStyle[Metal]"><![CDATA[金属]]></entry>
+    <entry id="JStyle[Nimbus]"><![CDATA[水晶]]></entry>
+    <entry id="JModel#mniMoveUp#text"><![CDATA[上移]]></entry>
+    <entry id="JModel#mniMoveDown#text"><![CDATA[下移]]></entry>
+    <entry id="JModel#mniRemove#text"><![CDATA[删除]]></entry>
+    <entry id="JModel#mniCopy#text"><![CDATA[复制]]></entry>
+    <entry id="JTransferHandler#file!OnlySupportsSingleFile"><![CDATA[仅支持单文件]]></entry>
+
+    <!-- ################################################################################### -->
+
+    <!-- ddmodstool.core.game.base.file.darkest -->
+    <entry id="Darkest#path"><![CDATA[darkest文件路径]]></entry>
+    <entry id="Darkest#lineType"><![CDATA[darkest行类型]]></entry>
+    <entry id="Darkest#itemName"><![CDATA[darkest项名]]></entry>
+    <entry id="Darkest#itemValue"><![CDATA[darkest项值]]></entry>
+    <entry id="Darkest!InvalidContent"><![CDATA[无法解析darkest文件内容]]></entry>
+    <entry id="Darkest!Uninitialized"><![CDATA[Darkest数据未初始化完全]]></entry>
+    <entry id="Darkest!MissingLine"><![CDATA[darkest文件中缺失预期的行]]></entry>
+    <entry id="Darkest!UnexpectedSizeOfLineList"><![CDATA[darkest文件中出现预期外的行]]></entry>
+    <entry id="Darkest!MissingItem"><![CDATA[darkest文件中缺失预期的项]]></entry>
+    <entry id="Darkest!UnexpectedSizeOfItemValueList"><![CDATA[darkest文件中出现预期外的项值]]></entry>
+    <entry id="Darkest!ConflictingItems"><![CDATA[darkest文件存在冲突的项]]></entry>
+
+    <!-- ddmodstool.core.game.base.file.skel -->
+    <entry id="Skel#path"><![CDATA[skel文件路径]]></entry>
+    <entry id="Skel!Uninitialized"><![CDATA[Skel数据未初始化完整]]></entry>
+    <entry id="Skel!InvalidFilename"><![CDATA[skel文件名异常]]></entry>
+    <entry id="Skel!UnexpectedAttachmentType"><![CDATA[skel文件中出现预期外的attachment类型]]></entry>
+    <entry id="Skel!UnexpectedTimelineType"><![CDATA[skel文件中出现预期外的timeline类型]]></entry>
+
+    <!-- ddmodstool.core.game.base.file.stringtable -->
+    <entry id="StringTable#path"><![CDATA[string_table文件路径]]></entry>
+    <entry id="StringTable#languageId"><![CDATA[string_table语言标识]]></entry>
+    <entry id="StringTable#entryId"><![CDATA[string_table条目标识]]></entry>
+    <entry id="StringTable!Uninitialized"><![CDATA[StringTable数据未初始化完整]]></entry>
+    <entry id="StringTable!MissingLanguage"><![CDATA[string_table文件中缺失预期的语言标识]]></entry>
+    <entry id="StringTable!MissingEntry"><![CDATA[string_table文件中缺失预期的条目]]></entry>
+    <entry id="StringTable!UnexpectedSizeOfEntryList"><![CDATA[string_table文件中出现预期外的条目]]></entry>
+
+    <!-- ################################################################################### -->
+
+  </language>
+</root>

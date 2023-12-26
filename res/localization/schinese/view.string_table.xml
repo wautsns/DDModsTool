@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <language id="schinese">
+
+    <!-- InitialSetupWizardFrame -->
+    <entry id="InitialSetupWizardFrame#title"><![CDATA[初始设置向导( 进度: %d/%d )]]></entry>
+    <entry id="InitialSetupWizardFrame#scene1#lblWelcome1#text"><![CDATA[初始设置向导]]></entry>
+    <entry id="InitialSetupWizardFrame#scene1#lblWelcome2#text"><![CDATA[欢迎使用DDModsTool。
+
+接下来，准备开始进行初始设置。
+
+如果您不想使用此向导，请关闭此窗口。
+如果需要再次执行，请选择"设置"->"初始设置向导"。]]></entry>
+    <entry id="InitialSetupWizardFrame#scene1#lblLanguage#text"><![CDATA[语言]]></entry>
+    <entry id="InitialSetupWizardFrame#scene1#lblStyle#text"><![CDATA[风格]]></entry>
+    <entry id="InitialSetupWizardFrame#scene1#lblFontFamily#text"><![CDATA[字体]]></entry>
+    <entry id="InitialSetupWizardFrame#scene1#btnStart#text"><![CDATA[开始!]]></entry>
+    <entry id="InitialSetupWizardFrame#scene2#lblGameHome#text"><![CDATA[游戏目录]]></entry>
+    <entry id="InitialSetupWizardFrame#scene2#btnGameHome#text"><![CDATA[选择游戏目录]]></entry>
+
+    <!-- ################################################################################### -->
+
+    <!-- MainFrame -->
+    <entry id="MainFrame#title"><![CDATA[DDModsTool]]></entry>
+    <entry id="MainFrame#mnuSettings#text"><![CDATA[设置]]></entry>
+    <entry id="MainFrame#mniInitialSetupWizard#text"><![CDATA[初始设置向导]]></entry>
+    <entry id="MainFrame#btnRenameSkelAnim#text"><![CDATA[skel动画重命名]]></entry>
+
+    <!-- ################################################################################### -->
+
+    <!-- RenameSkelAnimFrame -->
+    <entry id="RenameSkelAnimFrame#scene1#title"><![CDATA[skel动画重命名]]></entry>
+    <entry id="RenameSkelAnimFrame#scene1#lblSkelPathList#text"><![CDATA[skel列表]]></entry>
+    <entry id="RenameSkelAnimFrame#scene1#btnSkelPathList#text"><![CDATA[选择skel目录]]></entry>
+    <entry id="RenameSkelAnimFrame#scene1#lblAnimationList#text"><![CDATA[animations]]></entry>
+    <entry id="RenameSkelAnimFrame#scene1#btnPreview#text"><![CDATA[预览]]></entry>
+    <entry id="RenameSkelAnimFrame#scene1#btnSave#text"><![CDATA[保存]]></entry>
+    <entry id="RenameSkelAnimFrame#scene1#mniRename#text"><![CDATA[重命名]]></entry>
+    <entry id="RenameSkelAnimFrame#scene1#dlgRename#message"><![CDATA[请输入新名称]]></entry>
+
+  </language>
+</root>
